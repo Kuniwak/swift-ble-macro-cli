@@ -1,11 +1,21 @@
-swift-ble-macro-cli
-===================
+ble
+===
+
+A CLI tool for Bluetooth Low Energy (BLE) Macros on macOS.
+
+Supported macros are subset of [Android nRF Connect](https://github.com/NordicSemiconductor/Android-nRF-Connect/blob/54ed2a491567c18c9de91556efb511b9b0bc3ec8/documentation/Macros/README.md).
+See more details in [swift-ble-macro](https://github.com/kuniwak/swift-ble-macro?tab=readme-ov-file#supported-macros)
+
+
+Installation
+------------
+
+Download binaries from the [releases](https://github.com/Kuniwak/swift-ble-macro-cli/releases) page (Apple Silicon Mac only).
+And install it to `/usr/local/bin` or any directory in your `$PATH`.
 
 
 Usage
 -----
-
-Download binaries from the [releases](https://github.com/Kuniwak/swift-ble-macro/releases) page (Apple Silicon Mac only).
 
 ```console
 $ # Discover BLE devices
