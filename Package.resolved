@@ -1,13 +1,13 @@
 {
-  "originHash" : "62552a67b6c42a1d3bf8049714ce7630d8facbce02364fe7292dff409e7cab03",
+  "originHash" : "6f0386bf84a54887a5733cb35429758b6c76a43007988bdc332e2546ebd1ff12",
   "pins" : [
     {
       "identity" : "core-bluetooth-testable",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Kuniwak/core-bluetooth-testable.git",
       "state" : {
-        "revision" : "6ca4c86520e806ddf48a539c49c039276a279a8c",
-        "version" : "2.0.0"
+        "revision" : "2b5b4a4d4bea2414a6273a7024e44213a9dd91ff",
+        "version" : "4.0.1"
       }
     },
     {
@@ -17,6 +17,15 @@
       "state" : {
         "revision" : "f08c8323da21e985f3772610753bcfc652c2103f",
         "version" : "3.1.3"
+      }
+    },
+    {
+      "identity" : "mirrordiffkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Kuniwak/MirrorDiffKit.git",
+      "state" : {
+        "revision" : "6d721f86bbc91621b382f5a6a5a2ebd135c256e5",
+        "version" : "6.0.0"
       }
     },
     {
@@ -42,8 +51,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Kuniwak/swift-ble-macro.git",
       "state" : {
-        "revision" : "55bf8cb10c46669bbc83dfa7db777a615571e9a9",
-        "version" : "2.0.1"
+        "revision" : "9e4b83fb8e710ea90ea39871ea05028cc2749500",
+        "version" : "2.1.1"
       }
     },
     {
