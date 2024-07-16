@@ -16,8 +16,8 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/apple/swift-argument-parser.git", .upToNextMajor(from: "1.2.0")),
         .package(url: "https://github.com/xcode-actions/swift-signal-handling", .upToNextMajor(from: "1.0.0")),
-        .package(url: "https://github.com/Kuniwak/swift-ble-macro.git", .upToNextMajor(from: "2.1.1")),
-        .package(url: "https://github.com/Kuniwak/swift-logger.git", .upToNextMajor(from: "1.1.0")),
+        .package(url: "https://github.com/Kuniwak/swift-ble-macro.git", .upToNextMajor(from: "3.0.0")),
+        .package(url: "https://github.com/Kuniwak/swift-logger.git", .upToNextMajor(from: "2.0.0")),
         .package(url: "https://github.com/Kuniwak/swift-ble-assigned-numbers", .upToNextMajor(from: "2.0.0")),
     ],
     targets: [
